@@ -27,12 +27,16 @@
     ```
     pip install -r requirements.txt
     ```
-
 3. Obtain an API key from GCP and add it to the `key.json` file in the project directory. If you want to use speech_to_text_google_cloud.py
 
     ```shell
     Key.json =your_secret_GCP_api_key
     ```
+4. Run
+
+    ```
+    python run speech_text.py
+    ```  
 
 ## Use Cases
 1. <b>Transcription Services:</b> Ideal for businesses or individuals who need to transcribe audio recordings or interviews quickly and accurately.
