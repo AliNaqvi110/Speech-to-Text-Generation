@@ -4,6 +4,7 @@
 <p>
   The Speech-to-Text Generation project is a versatile and powerful tool for converting spoken language into written text. It harnesses the capabilities of various Python libraries, including the popular SpeechRecognition library and the Google Cloud Speech-to-Text API, to provide accurate and efficient speech recognition across multiple languages.
 </p>
+
 ## Key Features
 1. <b>Real-time Speech Recognition:</b> Capture audio input from a microphone in real-time and convert it into text.
 2. <b>Language Support:</b> The project offers multilingual support, allowing users to transcribe speech in languages such as English, Urdu, French, and more
