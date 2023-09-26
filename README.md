@@ -20,7 +20,7 @@
 5. <b>Export Options:</b> Transcriptions can be exported in various formats, making it convenient to work with the transcribed data.
 
 ## Getting Started
-<p>To get started with the Speech-to-Text Generation project, follow the installation </p>
+<p>To get started with the Speech-to-Text Generation project, follow the installation instructions</p>
  1. Clone the repository to your local machine.
 
 2. Install the required dependencies by running the following command:
